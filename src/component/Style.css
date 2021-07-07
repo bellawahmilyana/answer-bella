@@ -1,0 +1,81 @@
+.kardmenu {
+    height: 100%;
+    font-family: Poppins;
+    /* position:absolute; */
+    top: 20px;
+    /* bottom:0; */
+    /* overflow:hidden; */
+    border: 0px !important;
+}
+
+/* .card-body {
+    padding: 0 !important;
+} */
+
+.active {
+    color: black !important;
+}
+
+.hov:hover {
+    color: black;
+}
+
+.side {
+    padding-top: 40px;
+    margin-bottom: 0px;
+    padding-left: 0;
+}
+
+.side-men {
+    width: 100% !important;
+    display: flex;
+}
+
+.nav-link {
+    color: #3f3c3c79;
+}
+
+.quest {
+    background-color: rgb(244, 244, 248);
+}
+
+.cardd {
+    border-radius: 10px !important;
+    padding-left: 15px !important;
+}
+
+.the {
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+}
+
+span {
+    color: darkblue;
+}
+
+.search {
+    border-radius: 15px !important;
+}
+
+.pagination {
+    padding-left: 45px !important;
+}
+
+.navnav {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+
+.roww {
+    width: 80% !important;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.tes {
+    display: flex;
+}
